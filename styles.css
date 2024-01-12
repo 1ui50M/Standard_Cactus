@@ -1,0 +1,100 @@
+body {
+  display: flex;
+  background-color: hsl(217, 54%, 11%);
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.Cactus {
+  display: flex;
+  height: 640.972px;
+  width: 570.153px;
+  background-color: #fff;
+  border-radius: 12px;
+  flex-direction: column;
+}
+.image-cactus {
+  display: flex;
+  width: 570.153px;
+  height: 310.128px;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.contenido {
+  display: flex;
+  color: #111;
+  margin: 0px 130.14px 5.05px 37.87px;
+  border: 0px;
+  font-family: "Kanit", sans-serif;
+  font-size: 29.401px;
+  font-weight: 500;
+}
+.mas_informacion {
+  color: #111;
+  font-size: 38.401px;
+  margin: 28px 37px ;
+  font-family: "Kanit", sans-serif;
+  font-weight: 2;
+
+  border: 0px;
+  margin: 0px;
+}
+.inf_producto {
+  display: flex;
+  align-items: flex-end;
+}
+.cont-2 {
+  display: flex;
+  color: #696969;
+  margin: 0px 130.14px 5.05px 37.87px;
+  border: 0px;
+  font-family: "Kanit", sans-serif;
+  font-size: 30.5px;
+  font-weight: 1;
+}
+.iconos {
+  display: flex;
+  margin: 0px 130.14px 5.05px 37.87px;
+}
+.reviews {
+  display: flex;
+  color: #696969;
+  font-size: 20.5px;
+}
+.boton {
+  display: flex;
+  width: 454.417px;
+  height: 60.972px;
+  margin: 0px 130.14px 5.05px 37.87px;
+  background-color: #ecbac4;
+  border-radius: 14.201px;
+  justify-content: center;
+  align-items: center;
+}
+.numero {
+  font-size: 30.5px;
+  margin: 0px 15px 0px 15px;
+}
+.minus {
+  background-color: palevioletred;
+  border-radius: 16px;
+  width: 28px;
+  height: 28px;
+}
+.plus {
+  background-color: palevioletred;
+  border-radius: 16px;
+  width: 28px;
+  height: 28px;
+}
+.heart {
+  display: flex;
+  position: relative;
+  transform: translate(-30%, -540%);
+  background-color:#ecbac4;
+  border-radius: 22px;
+  width: 48px;
+  height: 48px;
+  left: 85%;
+}
